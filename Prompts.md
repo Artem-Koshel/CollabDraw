@@ -41,4 +41,10 @@ I found several bugs in application. Plan the work to find the reason of bugs an
 Simplify the implementation. Send to the backend only array of pixels touched by user. Do not create boxes/areas where user draws or erases something. Keep batch of pixels 250 pixels long.
 ```
 
+# Fixes
+Completely remove Eraser tool.
+
+# Plan Mode:
+
+Implement Eraser tool. It should work the same as Pen tool, but should have white color (the same as background). Ask me additional questions if needed
 
