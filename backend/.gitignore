@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# User secrets and local config
+appsettings.Local.json
+secrets.json
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Test results
+TestResults/
