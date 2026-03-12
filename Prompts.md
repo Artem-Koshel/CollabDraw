@@ -1,3 +1,6 @@
+Context7 MCP is used
+
+
 # PLAN MODE
 
 ```
